@@ -19,4 +19,4 @@ I used linear regression to predict the Boston housing market. While I got a dec
 
 What was important in this project was predictive value but also understanding what drives price. Regression analysis offers the advantage of understanding which features impact the predictions the most, and even whether the relationship to the outcomes variable is positive (increases price) or negative (decreases price).
 
-<img src='predicting_housing/price_sq_foot.png'>
+<img src='predicting_housing/feature_correlations.png'>
