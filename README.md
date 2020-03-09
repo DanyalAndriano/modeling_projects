@@ -15,8 +15,8 @@ These questions were quite challenging to answer due to limited data -- however,
 
 # Predicting the Boston Housing Market
 
-I used linear regression to predict the Boston housing market. While I got a decent R-squared (.82) - I would definitely not have stopped my analysis here if this were a real project I was working on. I would definitely use other machine learning algorithms - like XGBoost, Random Forests. There are improvements and follow ups that can be made to the regression analysis as well - which I've documented at the end of the project notebook. 
+I used linear regression to predict the Boston housing market. While I got a decent R-squared (.82) - I would definitely not have stopped my analysis here if this were a real project I was working on, and would have compared performance to other machine learning algorithms - like XGBoost, Random Forests, etc. There are improvements and follow ups that can be made to the regression analysis as well - which I've documented at the end of the project notebook. 
 
-What was important in this project was predictive value but also perhaps understanding what drives price. Regression analysis offers the advantage of understanding which features impact the predictions the most, and even whether the relationship to the outcomes variable is positive (increases price) or negative (decreases price).
+What was important in this project was predictive value but also understanding what drives price. Regression analysis offers the advantage of understanding which features impact the predictions the most, and even whether the relationship to the outcomes variable is positive (increases price) or negative (decreases price).
 
 <img src='predicting_housing/price_sq_foot.png'>
