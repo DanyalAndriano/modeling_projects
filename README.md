@@ -11,6 +11,7 @@ These questions were quite challenging to answer due to limited data -- however,
 
  <img src='decisions_hypotheses/does_discount_increase_sales.png'>
 ------------------------------------------------
+
 # Predicting the Boston Housing Market
 
 I used linear regression to predict the Boston housing market. While I got a decent R-squared (.82) - I would definitely not have stopped my analysis here if this were a real project I was working on. I would definitely use other machine learning algorithms - like XGBoost, Random Forests. There are improvements and follow ups that can be made to the regression analysis as well - which I've documented at the end of the project notebook. 
