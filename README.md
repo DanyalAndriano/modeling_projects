@@ -10,6 +10,7 @@ Using the Northwind database--a free, open-source dataset created by Microsoft c
 These questions were quite challenging to answer due to limited data -- however, this perhaps made the task of having to decide on what actions to take realistic for some companies.
 
  <img src='decisions_hypotheses/does_discount_increase_sales.png'>
+ 
 ------------------------------------------------
 
 # Predicting the Boston Housing Market
