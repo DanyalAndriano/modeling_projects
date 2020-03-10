@@ -24,4 +24,13 @@ Had this been a real-life project I would furthermore compare results to other m
 
 <img src='predicting_housing/feature_correlations.png'>
 
+----------------------------------------------------------
+# Predicting Subscribers
 
+> [Notebook: Predicting banking subscribers](https://github.com/DanyalAndriano/modeling_projects/blob/master/bank_subscriptions/classifier_bank_marketing.ipynb) (Class Imbalance, Resampling, ML Pipelines,)
+
+> [Notebook: Feature EDA](https://github.com/DanyalAndriano/modeling_projects/blob/master/bank_subscriptions/eda_bank_marketing.ipynb) (Feature Engineering, Seasonality, Follow up Questions)
+
+This is a classic dataset used to try and predict subscribers (for term deposits). I grappled a lot with the class imbalance in the dataset. Looking back on the project now, the major changes I would add are - working more with the probabilistic outputs (especially using ranking to target those most likely to subscribe first - so basically, _applying_ the findings in an effective way to the business problem). I would also carry out more group comparisons - e.g., do subscribers differ by season? Etc. Feature engineering and optimized gridsearch techniques could also improve performance. Nevertheless, the project still outlines a good approach to the problem.    
+
+<img src='bank_subscriptions/seasons.png'>
